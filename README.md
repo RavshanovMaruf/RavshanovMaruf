@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RavshanovMaruf
 - 👀 I’m interested in Game development, game hacking and .net core framework.
-- 🌱 I’m currently learning C#/C++ and unity.
+- 🌱 I’m currently learning C#/C++, unity and .NET core.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me freeimmortal93@gmail.com
 
